@@ -16,17 +16,12 @@ html{
 /* Navbar Section */
 
 #navbar {
-    position:fixed;
     color: #fff;
     display: flex;
-    justify-content: space-around;
-    
+    justify-content: space-between;
     align-items: center;
     padding: 0 0.75rem;
-    height: 70px;
-    z-index: 100;
-    width:  100%;
-   
+    height: 70px;   
 } 
 #navbar ul{
     list-style-type: none;

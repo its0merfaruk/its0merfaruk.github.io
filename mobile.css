@@ -3,9 +3,7 @@
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     overflow: hidden;
-    height: 80px;
-    margin-top: 0;
-    position: fixed;
+    height: 90px;
 }
 
 #training .items {
