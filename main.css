@@ -58,6 +58,7 @@ html{
 }
 
 #home .name h2{
+    margin-top: 1rem;
     margin-bottom: 0.75rem;
 }
 
